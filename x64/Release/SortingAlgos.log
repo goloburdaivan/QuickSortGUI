@@ -1,0 +1,9 @@
+﻿  GraphicsManager.cpp
+D:\Labs\АСД\Лаба_3_2\SortingAlgos\SortingAlgos\GraphicsManager.h(31,76): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Labs\АСД\Лаба_3_2\SortingAlgos\SortingAlgos\GraphicsManager.cpp(14,92): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Создание кода
+  4 of 354 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SortingAlgos.vcxproj -> D:\Labs\АСД\Лаба_3_2\SortingAlgos\x64\Release\SortingAlgos.exe
